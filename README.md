@@ -1,5 +1,3 @@
-<!---Test--->
-
 <h3 align="center"> <img src="https://64.media.tumblr.com/d53dde78a8828a1ff34abed9e58ee589/04b4880a73281388-2a/s75x75_c1/eb23cff163109cb64cbdda70d77d679351a08ffd.gifv" width="27"/> <em>𝒜𝒷𝑜𝓊𝓉 𝑀𝑒</em></h3>
 
 <p>
@@ -32,6 +30,7 @@
 </br>
 </br>
 
+<!--
 <p align="center">
   <table align="center" style="border: 2px dashed #142c14; border-radius: 12px; padding: 10px; background-color: #8da750;">
     <tr>
@@ -43,3 +42,8 @@
     </tr>
   </table>
 </p>
+-->
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=JaxelRB&label=🍵&=JaxelRB&color=lightgrey)
