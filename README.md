@@ -38,7 +38,7 @@
       <td align="center">
         <small style="color: #8DA750; font-family: monospace;">𝒫𝓇𝑜𝒻𝒾𝓁𝑒 𝒱𝒾𝓈𝒾𝓉𝓈</small>
         <br><br>
-        <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Count" />
+        <img src="https://profile-counter.deno.dev/:1:/count.svg" alt="Count" />
       </td>
     </tr>
   </table>
