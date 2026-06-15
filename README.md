@@ -49,7 +49,8 @@
         <br>
         <img src="https://64.media.tumblr.com/500fe2028c9adbbddfcaed91aec1c2a3/475a0bc73769d50d-84/s400x600/53c728d6d8a011b60bdc463146d835c3a0e2d83d.gifv">
         <br>
-        <em>W21 most of the time because I'm always off-tab doing work <img src="https://64.media.tumblr.com/ce3b122bab227bcaf5e52cbf7435332e/f3866d4fafde6581-b4/s75x75_c1/ebb8ded79c44e26f36c0129631f24b9c5e96b164.gifv">
+        <em>W21 most of the time because I'm always off-tab doing work <img src="https://64.media.tumblr.com/ce3b122bab227bcaf5e52cbf7435332e/f3866d4fafde6581-b4/s75x75_c1/ebb8ded79c44e26f36c0129631f24b9c5e96b164.gifv"></em><br>
+          <em> C+H freely ♡ </em>
           <br>
           <img src="https://64.media.tumblr.com/e07b070c2e82462fa2e889ec93970bf4/85edfd53d6d2bedd-fe/s400x600/5de7db23baded60f61ba6ab7292e23db2ff869e3.pnj">
           <br>
