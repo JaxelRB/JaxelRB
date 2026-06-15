@@ -57,3 +57,18 @@
     </td>
   </tr>
 </table>
+
+<!---
+<p align="center">
+  <table align="center" border="0">
+    <tr>
+      <td align="center">💚 &nbsp; 𝒥𝒶𝓍 . 𝒥𝒶𝓍𝑒𝓁</td>
+    </tr>
+    <tr>
+      <td align="center">𝘚𝘩𝘦/𝘏𝘦𝘳 , 𝘏𝘦/𝘏𝘪𝘮 &nbsp; 💸 &nbsp; -18 &nbsp; 〰️</td>
+    </tr>
+    <tr>
+      <td align="center">〰️ &nbsp; 𝘌𝘕𝘍𝘗 &nbsp; 🍀</td>
+    </tr>
+  </table>
+</p>
