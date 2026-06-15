@@ -30,19 +30,6 @@
 </br>
 </br>
 
-<!--
-<p align="center">
-  <table align="center" style="border: 2px dashed #142c14; border-radius: 12px; padding: 10px; background-color: #8da750;">
-    <tr>
-      <td align="center">
-        <small style="color: #8DA750; font-family: monospace;">𝒫𝓇𝑜𝒻𝒾𝓁𝑒 𝒱𝒾𝓈𝒾𝓉𝓈</small>
-        <br><br>
-        <img src="https://profile-counter.deno.dev/:JaxelR:/count.svg" alt="Count" />
-      </td>
-    </tr>
-  </table>
-</p>
--->
 
 <div align="center">
 
@@ -50,11 +37,30 @@
 
 <!---Ponytown--->
 
-<table>
+<table align="center" border="0">
   <tr>
     <td align="center">
       <img src="https://i.postimg.cc/sXm0KTX7/pony-town-Jaxel-Ren-B-trot-blinking-padded-4x.webp" width="35"> <em> 𝒫𝑜𝓃𝓎𝓉𝑜𝓌𝓃 𝑅𝑒𝓁𝒶𝓉𝑒𝒹 </em> <img src="https://i.postimg.cc/SQZvM1HM/pony-town-Jaxel-Ren-B-boop-sit-padded-4x.webp" width="35">
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <em> <img src="https://i.postimg.cc/28WvdV3P/pony-town-Jaxel-Ren-B-double-nod-with-closed-eyes-padded-4x.webp" width="27"> is my main pony! 
+        <br>
+        <img src="https://64.media.tumblr.com/500fe2028c9adbbddfcaed91aec1c2a3/475a0bc73769d50d-84/s400x600/53c728d6d8a011b60bdc463146d835c3a0e2d83d.gifv">
+        <br>
+        <em>W21 most of the time because I'm always off-tab doing work <img src="https://64.media.tumblr.com/ce3b122bab227bcaf5e52cbf7435332e/f3866d4fafde6581-b4/s75x75_c1/ebb8ded79c44e26f36c0129631f24b9c5e96b164.gifv">
+          <br>
+          <img src="https://64.media.tumblr.com/e07b070c2e82462fa2e889ec93970bf4/85edfd53d6d2bedd-fe/s400x600/5de7db23baded60f61ba6ab7292e23db2ff869e3.pnj">
+          <br>
+        • [ ✕ ] DNI |　Transphobic　.　Homophobic　.　Islamophobic　.　ETC. <br>
+      　             ➥ Misogynistic <br>
+      　             ➥ Racist　.　Sexist　.　Discrimination　.　ETC. <br>
+      　             ➥ Pedophile　.　Sexualizes Minors　.　Jokes about R*pe　.　ETC. </em>
+        <br>
+        <img src="https://64.media.tumblr.com/e07b070c2e82462fa2e889ec93970bf4/85edfd53d6d2bedd-fe/s400x600/5de7db23baded60f61ba6ab7292e23db2ff869e3.pnj">
+        <br>
+        <img src="https://64.media.tumblr.com/0a602be177ddf3a2dd9ec471b6deb21f/cdcd046cc1704e5b-99/s75x75_c1/8a09b4d291083417866d362809c263fd8dee4b37.gifv"> My usual hangout place is the dock and the area around it as I occasionally join RP or other parties.
   </tr>
 </table>
 
@@ -72,3 +78,4 @@
     </tr>
   </table>
 </p>
+--->
