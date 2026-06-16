@@ -72,7 +72,7 @@
     </td>
   </tr> 
   <tr>
-    <td>
+    <td width="500px" align="center">
       <img src="https://64.media.tumblr.com/76d489d96c3788a604f8757b0d6dd433/1be63c49a64a0cde-bf/s100x200/396b3bee623af1223337d1d1af18e54d0bd12a22.gifv"><img src="https://files.catbox.moe/eqmvw9.gif"><img src="https://files.catbox.moe/9mbc3e.gif"><img src="https://files.catbox.moe/3ad2ge.gif"><img src="https://64.media.tumblr.com/2e7d41458dcc3c10d39df8f92f7247fc/0e835423df2a905e-60/s75x75_c1/5c70584ecfa18e7937a19049cadfbfb06a26cba8.gifv"><img src="https://64.media.tumblr.com/a5fd1fe920ad81edc32e82217bb34c6d/00fb8ddee1cc3f2b-2b/s75x75_c1/1754c3f28607a09e57713d7b9155d27ead22d605.gifv"><img src="https://i.postimg.cc/ZqSL1jcx/4v2774.gif"><img src="https://i.postimg.cc/CxwJzm3r/nxkvg6.gif"><img src="https://i.postimg.cc/65bgxs2L/xhrm93.gif"><img src="https://i.postimg.cc/28S7YVhg/jxkkf5.gif">
     </td>    
   </tr>
