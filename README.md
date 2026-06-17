@@ -35,6 +35,10 @@
 
 ![](https://komarev.com/ghpvc/?username=JaxelRB&label=🍵&=JaxelRB&color=lightgrey)
 
+<br>
+<hr>
+<br
+
 <!---Ponytown--->
 
 <table align="center" border="0">
@@ -77,3 +81,4 @@
     </td>    
   </tr>
 </table>
+
