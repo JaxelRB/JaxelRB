@@ -49,7 +49,20 @@
   </tr>
   <tr>
     <td align="center">
-      <em> <img src="https://i.postimg.cc/28WvdV3P/pony-town-Jaxel-Ren-B-double-nod-with-closed-eyes-padded-4x.webp" width="27"> is my main pony! 
+         <div style="font-style: italic; margin: 10px 0;">
+      My main pony ! -
+         </div>
+      <em> <img src="https://i.postimg.cc/tRB27ZSb/image-2026-07-20-092613022.png" width="10%">  
+        <br>
+        <div style="font-style: italic; margin: 10px 0;">
+        My other Ponies ! - 
+      </div>
+        <div style="display: flex; justify-content: center; gap: 10px;">
+        <img src="https://i.postimg.cc/d3wpFbVW/image-2026-07-20-092017716.png" width="10%">
+        <img src="https://i.postimg.cc/sxj6q5Th/image-2026-07-20-092315733.png" width="10%">
+        <img src="https://i.postimg.cc/2SbHskxD/image-2026-07-20-092440925.png" width="10%">
+        </div>
+        <p> <sup><em>There's more but I'm too lazy to list them all.</em></sup>
         <br>
         <img src="https://64.media.tumblr.com/500fe2028c9adbbddfcaed91aec1c2a3/475a0bc73769d50d-84/s400x600/53c728d6d8a011b60bdc463146d835c3a0e2d83d.gifv">
         <br>
