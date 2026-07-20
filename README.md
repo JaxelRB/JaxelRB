@@ -17,7 +17,7 @@
 </em></p>
 
 <p align="center"><em>
-  𝒮he / ℋer , ℋe / ℋim ⠀<img src="https://i.postimg.cc/s2dxwstF/tumblr-c75d4bfd73832a75ea7164d495feb349-50100590-75.webp" width="20"> ⠀ ⠀ -18　⏖ 
+  𝒮he / ℋim ⠀<img src="https://i.postimg.cc/s2dxwstF/tumblr-c75d4bfd73832a75ea7164d495feb349-50100590-75.webp" width="20"> ⠀ ⠀ -18　⏖ 
 </em></p>
 
 <p></p>
