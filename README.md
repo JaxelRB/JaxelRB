@@ -61,6 +61,9 @@
         <img src="https://i.postimg.cc/d3wpFbVW/image-2026-07-20-092017716.png" width="10%">
         <img src="https://i.postimg.cc/sxj6q5Th/image-2026-07-20-092315733.png" width="10%">
         <img src="https://i.postimg.cc/2SbHskxD/image-2026-07-20-092440925.png" width="10%">
+        <img src="https://i.postimg.cc/J499tPm5/image-2026-07-21-081128523.png" width="10%">
+        <img src="https://i.postimg.cc/8zQ0Tcmk/image-2026-07-21-081251478.png" width="10%">
+        <img src="https://i.postimg.cc/W1VcXXKZ/image-2026-07-21-081440990.png" width="10%">
         </div>
         <p> <sup><em>There's more but I'm too lazy to list them all.</em></sup>
         <br>
